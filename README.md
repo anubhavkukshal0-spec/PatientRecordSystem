@@ -6,7 +6,7 @@ A robust Java Swing application for managing patient records and medical history
 
 - **Patient Management**: Add, update, and view patient details.
 - **Database Integration**: MySQL backend for persistent storage.
-- **Testing**: Integrated unit and integration tests using JUnit 5 and Mockito.
+
 
 ## Prerequisites
 
